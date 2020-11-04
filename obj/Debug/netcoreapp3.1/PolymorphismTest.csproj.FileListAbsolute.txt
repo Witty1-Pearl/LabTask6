@@ -1,0 +1,13 @@
+C:\CodebitsAcademy\C#\LabTask6\PolymorphismTest\obj\Debug\netcoreapp3.1\PolymorphismTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#\LabTask6\PolymorphismTest\obj\Debug\netcoreapp3.1\PolymorphismTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#\LabTask6\PolymorphismTest\obj\Debug\netcoreapp3.1\PolymorphismTest.AssemblyInfo.cs
+C:\CodebitsAcademy\C#\LabTask6\PolymorphismTest\obj\Debug\netcoreapp3.1\PolymorphismTest.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#\LabTask6\PolymorphismTest\bin\Debug\netcoreapp3.1\PolymorphismTest.exe
+C:\CodebitsAcademy\C#\LabTask6\PolymorphismTest\bin\Debug\netcoreapp3.1\PolymorphismTest.deps.json
+C:\CodebitsAcademy\C#\LabTask6\PolymorphismTest\bin\Debug\netcoreapp3.1\PolymorphismTest.runtimeconfig.json
+C:\CodebitsAcademy\C#\LabTask6\PolymorphismTest\bin\Debug\netcoreapp3.1\PolymorphismTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#\LabTask6\PolymorphismTest\bin\Debug\netcoreapp3.1\PolymorphismTest.dll
+C:\CodebitsAcademy\C#\LabTask6\PolymorphismTest\bin\Debug\netcoreapp3.1\PolymorphismTest.pdb
+C:\CodebitsAcademy\C#\LabTask6\PolymorphismTest\obj\Debug\netcoreapp3.1\PolymorphismTest.dll
+C:\CodebitsAcademy\C#\LabTask6\PolymorphismTest\obj\Debug\netcoreapp3.1\PolymorphismTest.pdb
+C:\CodebitsAcademy\C#\LabTask6\PolymorphismTest\obj\Debug\netcoreapp3.1\PolymorphismTest.genruntimeconfig.cache
